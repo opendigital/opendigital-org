@@ -1,9 +1,9 @@
 ---
-Name: Design/Visuals Request
-About: What on the website needs to be amended?
-Title: "[Designs/Visuals-request]"
-Labels: Administrative
-Assignees: ''
+name: Design/Visuals Request
+about: What on the website needs to be amended?
+title: "[Designs/Visuals-request]"
+labels: Administrative
+assignees: ''
 ---
 
 __Your GitHub Profile__: \<github/my-username\>
