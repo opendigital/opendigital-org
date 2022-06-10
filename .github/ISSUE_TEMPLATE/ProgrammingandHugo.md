@@ -1,8 +1,8 @@
 ---
-Name: Programming/Hugo Request
-About: What on the website needs to be amended?
-Title: "[Programming/Hugo-request]"
-Labels: administrative
+name: Programming/Hugo Request
+about: What on the website needs to be amended?
+title: "[Programming/Hugo-request]"
+labels: administrative
 Assignees: ''
 ---
 
