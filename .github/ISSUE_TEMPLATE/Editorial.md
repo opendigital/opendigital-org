@@ -1,9 +1,9 @@
 ---
-name: Editorial Request
-about: What on the website needs to be amended?
-title: "[Editorial-request]"
-labels: administrative
-assignees: ''
+Name: Editorial Request
+About: What on the website needs to be amended?
+Title: "[Editorial-request]"
+Labels: administrative
+Assignees: ''
 ---
 
 __Your GitHub Profile__: \<github/my-username\>
