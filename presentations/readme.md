@@ -1,8 +1,8 @@
 Presentations folder
 * Put a table for all the presentations for the next six weeks here.
 
-Date               | Presenter Name | 
------------------  | -------------- |  
+Date               | Presenter Name |       Topic        | 
+-----------------  | -------------- |  ----------------
 13th June 2022     | Vineet         | 
 -----------------  | -------------- |  
 20th June 2022     | ???            | 
@@ -17,7 +17,7 @@ Date               | Presenter Name |
 ----------------   | -------------  |
 25th July 2022     |                |
 ----------------   | -------------  |
-1st August 2022    |                |
+1st August 2022    | Jia Cheoh      |  Simon, H. A., & Newell, A. (1976). Human Problem Solving: The State of the Theory in 1970                            1. In Structural Learning (Volume II). Routledge.
 ----------------   | -------------  |
 8th August 2022    |                |
 ----------------   | -------------  |
