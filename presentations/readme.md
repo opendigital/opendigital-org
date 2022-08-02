@@ -17,10 +17,9 @@ Date               | Presenter Name |       Topic        |
 ----------------   | -------------  |
 25th July 2022     | -              |
 ----------------   | -------------  |
-1st August 2022    | Jia            |  Simon, H. A., & Newell, A. (1976). Human Problem Solving: The State of the Theory in 1970                            1. In Structural Learning (Volume II). Routledge.
 1st August 2022    | Manthan        |  Experimental Setup for Fall Hack, Ironhacks
 ----------------   | -------------  |
-8th August 2022    |                |
+8th August 2022    | Jia            |  Simon, H. A., & Newell, A. (1976). Human Problem Solving: The State of the Theory in 1970.  1. In Structural Learning (Volume II). Routledge.                           
 ----------------   | -------------  |
 15th August 2022   | vineet & shatayu |          
 ----------------   | -------------  |
