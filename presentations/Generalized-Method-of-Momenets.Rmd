@@ -1,0 +1,71 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Dynamic Panel GMM -> Generalized Method of Moments
+
+- data indexed by individual (i) and time (t)
+
+General GMM formula "Y(i, t) ~ X(i, t) | Z(i, t)
+
+Y - Dependent variable 
+
+# An endogenous variable is a variable that depends on other variables in a statistical and/or economic model. If the value changes for an endogenous variable, it is because there are changes to its relationships with other variables in the same model. Therefore, it is similar to a dependent variable because both are influenced by one or more independent variables.
+
+X - Endogeneous variable: Includes Y(i, t - 1) for dynamics 
+
+Z - instrument set
+
+```{r}
+install.packages("plm")
+library(plm)
+
+# package sample data 
+data("EmplUK", package = "plm")
+EmplUK
+```
+
+# breaking down the model: 
+log(emp) ~ lag(log(emp), 1:2) + lag(log(wage), 0:1) + log(capital) + lag(log(output), 0:1) | lag(log(emp), 2:99)
+
+Y(i, t) = log(emp) ==> employment (i, t)
+X(i, t) = lag(log(emp), 1:2) => Y(i, t-1) and Y(i, t-2)
+          lag(log(wage), 0:1) => wage(i, t) and wage(i, t-1)
+          log(capital)    => capital(i, t)
+          lag(log(output), 0:1)  => output(i, t) and output(i, t - 1)
+Z(i, t) = lag(log(emp), 2:99)    => Y(i, t - 2), Y(i, t - 3)....... Y(i, t - 99)
+
+
+```{r}
+# Arellano and Bond ( 1991 ) esimtator -- difference estimator 
+z1.AB <- pgmm(log(emp) ~ lag(log(emp), 1:2) + lag(log(wage), 0:1) + log(capital) + lag(log(output), 0: 1) | lag(log(emp), 2:99), 
+              data = EmplUK, 
+              effect = "twoways", 
+              index = c("firm", "year"), 
+              model = "twosteps")
+summary(z1.AB)
+```
+
+```{r}
+# Blundell and Bond ( 1998 ) esimtator -- system estimator 
+z1.BB <- pgmm(log(emp) ~ lag(log(emp), 1:2) + lag(log(wage), 0:1) + log(capital) + lag(log(output), 0: 1) | lag(log(emp), 2:99), 
+              data = EmplUK, 
+              effect = "twoways", 
+              index = c("firm", "year"), 
+              model = "twosteps", 
+              transformation = "ld")
+summary(z1.BB)
+```
+
+```{r}
+# reducing the number of instruments
+z1.BBsmall <- pgmm(log(emp) ~ lag(log(emp), 1:2) + lag(log(wage), 0:1) + log(capital) + lag(log(output), 0: 1) | lag(log(emp), 2:4), 
+              data = EmplUK, 
+              effect = "twoways", 
+              index = c("firm", "year"), 
+              model = "twosteps", 
+              transformation = "ld")
+summary(z1.BBsmall)
+```
+
