@@ -5,10 +5,10 @@
 | 1   | Sept. 28-Oct. 2, 2022   | Submission closed  |Organization for the Study of Communication Language and Gender  | https://osclg.org/   |
 | 2   | Nov 8-22, 2022   | July 15, 2022   | ACM Conference on Computer-Supported Cooperative Work and Social Computing  | http://cscw.acm.org/  |
 | 3  | Nov 17-20  | Submission closed  | National Communication Association Convention  | http://www.natcom.org/convention/  |
-| 4  |   |   |   |   |
-| 5  |   |   |   |   |
-| 6  |   |   |   |   |
-| 7  |   |   |   |   |
+| 4  | March 29-April 2, 2023  | March 29-April 2, 2023  | Conference on Business Analytics and Operations Research  | https://www.csca-net.org/aws/CSCA/pt/sp/convention_overview  |
+| 5  | April 16-18, 2023 | April 16-18, 2023 | Central States Communication Association  | https://meetings.informs.org/wordpress/analytics2023/  |
+| 6  | May 17-20, 2023  |   | International Congress of Qualitative Inquiry, ICQI Illinois (UIUC) RO  | https://icqi.org/  |
+| 7  | May 25-29, 2023  |   | International Communication Association Conference, ICA Toronto, Canada ST  |  http://www.icahdq.org/# |
 | 8 |   |   |   |   |
 | 9  |   |   |   |   |
 | 10  |   |   |   |   |
@@ -19,29 +19,6 @@
 
 
 
-April 16-18, 2023 INFORMS Aurora, CO
-Conference on Business Analytics and Operations Research
-https://meetings.informs.org/wordpress/analytics2023/
-Submission deadline TBD
-
-
-Nov 8-22, 2022 CSCW Virtual JE
-ACM Conference on Computer-Supported
-Cooperative Work and Social Computing
-http://cscw.acm.org/
-Submission deadline Nov 8 - 22, 2022
-
-Nov 17-20, 2022 NCA New Orleans, LA TO
-National Communication Association Convention
-http://www.natcom.org/convention/
-
-Not this year ICRC Orlando, FL RO
-International Crisis and Risk Communication Conference
-https://communication.ucf.edu/icrcc
-
-March 29-April 2, 2023 CSCA St. Louis, MO ST
-Central States Communication Association
-https://www.csca-net.org/aws/CSCA/pt/sp/convention_overview
 
 May 17-20, 2023 ICQI Illinois (UIUC) RO
 International Congress of Qualitative Inquiry
