@@ -1,10 +1,5 @@
 # Conferences in 2022
 
-April 16-18, 2023 INFORMS Aurora, CO 
-Conference on Business Analytics and Operations Research
-https://meetings.informs.org/wordpress/analytics2023/
-Submission deadline TBD
-
 Sep 23-25, 2022 OCMC Austin, TX ST
 Organizational Communication Mini Conference
 https://commstudies.utexas.edu/graduate/ocmc-2022
@@ -58,3 +53,8 @@ August 4-8, 2023 AOM Boston, MA SE
 Annual Meeting of the Academy of Management
 https://aom.org/events/annual-meeting/annual-meeting-theme
 http://ocis.aom.org/ (Communication, Digital Technology, and Organization Division – formally Organizational Communication & Information Systems Division)
+
+April 16-18, 2023 INFORMS Aurora, CO 
+Conference on Business Analytics and Operations Research
+https://meetings.informs.org/wordpress/analytics2023/
+Submission deadline TBD
