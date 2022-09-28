@@ -1,24 +1,29 @@
 # Conferences in 2022
-* [IC^2S^2](https://iscss.org/ic2s2/conference/)
-* [AoM](https://aom.org/events/annual-meeting)
-* [INFORMS](https://www.informs.org/Meetings-Conferences)
+
+April 16-18, 2023 INFORMS Aurora, CO 
+Conference on Business Analytics and Operations Research
+https://meetings.informs.org/wordpress/analytics2023/
+Submission deadline TBD
+
 Sep 23-25, 2022 OCMC Austin, TX ST
 Organizational Communication Mini Conference
-Registration is online https://commstudies.utexas.edu/graduate/ocmc-2022
+https://commstudies.utexas.edu/graduate/ocmc-2022
+Submission deadline July 1, 2022
 
 Sept. 28-Oct. 2, 2022 OSCLG Minneapolis, MN RO
 Organization for the Study of Communication Language and Gender
 https://osclg.org/
+Submission deadline Sept 28, Oct 2, 2022
 
 Nov 8-22, 2022 CSCW Virtual JE
 ACM Conference on Computer-Supported
 Cooperative Work and Social Computing
 http://cscw.acm.org/
+Submission deadline Nov 8 - 22, 2022
 
 Nov 17-20, 2022 NCA New Orleans, LA TO
 National Communication Association Convention
 http://www.natcom.org/convention/
-● Purdue reception - YES! Friday, 9 pm - 11 pm. Location TBD.
 
 Not this year ICRC Orlando, FL RO
 International Crisis and Risk Communication Conference
