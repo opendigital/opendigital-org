@@ -2,9 +2,10 @@
 
 | No.  |  Date | Submission Deadline  | Conference Name & Location  | Link |
 |---|---|---|---|---|
-| 1   | Sept. 28-Oct. 2, 2022   |   |Organization for the Study of Communication Language and Gender  | https://osclg.org/   |
-| 2   |   |   |   |   |
-| 3  |   |   |   |   |
+| 1   | Sept. 28-Oct. 2, 2022   | Submission closed  |Organization for the Study of Communication Language and Gender  | https://osclg.org/   |
+| 2   | Nov 8-22, 2022   |    | ACM Conference on Computer-Supported
+Cooperative Work and Social Computing  | http://cscw.acm.org/  |
+| 3  | Nov 17-20  |   | National Communication Association Convention  | http://www.natcom.org/convention/  |
 | 4  |   |   |   |   |
 | 5  |   |   |   |   |
 | 6  |   |   |   |   |
@@ -19,21 +20,11 @@
 
 
 
-April 16-18, 2023 INFORMS Aurora, CO\ 
-Conference on Business Analytics and Operations Research\
-https://meetings.informs.org/wordpress/analytics2023/\
+April 16-18, 2023 INFORMS Aurora, CO
+Conference on Business Analytics and Operations Research
+https://meetings.informs.org/wordpress/analytics2023/
 Submission deadline TBD
 
-Sep 23-25, 2022 OCMC Austin, TX ST
-Organizational Communication Mini Conference
-https://commstudies.utexas.edu/graduate/ocmc-2022
-Submission deadline July 1, 2022
-
-
-Sept. 28-Oct. 2, 2022 OSCLG Minneapolis, MN RO
-Organization for the Study of Communication Language and Gender
-https://osclg.org/
-Submission deadline Sept 28, Oct 2, 2022
 
 Nov 8-22, 2022 CSCW Virtual JE
 ACM Conference on Computer-Supported
