@@ -1,28 +1,24 @@
 # Conferences in 2022/2023
 
-| Nr   | Date            | Submission Deadline                                     | Conference Name & Location | Link 
-| ---- | :-------------------- | ---------------------- | ------------------------------------------------------------------- | ---------|
-| 1    | Sept. 28-Oct. 2, 2022 | | Organization for the Study of Communication Language and Gender |  | 
-
-| No.  |  Date | Submission Deadline  | Conference Name & Location  | https://osclg.org/  |
+| No.  |  Date | Submission Deadline  | Conference Name & Location  | Link |
 |---|---|---|---|---|
 | 1   | Sept. 28-Oct. 2, 2022   |   |Organization for the Study of Communication Language and Gender  | https://osclg.org/   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| 2   |   |   |   |   |
+| 3  |   |   |   |   |
+| 4  |   |   |   |   |
+| 5  |   |   |   |   |
+| 6  |   |   |   |   |
+| 7  |   |   |   |   |
+| 8 |   |   |   |   |
+| 9  |   |   |   |   |
+| 10  |   |   |   |   |
+| 11  |   |   |   |   |
+| 12  |   |   |   |   |
+| 13  |   |   |   |   |
 
 
 
-=======
+
 April 16-18, 2023 INFORMS Aurora, CO\ 
 Conference on Business Analytics and Operations Research\
 https://meetings.informs.org/wordpress/analytics2023/\
@@ -32,7 +28,7 @@ Sep 23-25, 2022 OCMC Austin, TX ST
 Organizational Communication Mini Conference
 https://commstudies.utexas.edu/graduate/ocmc-2022
 Submission deadline July 1, 2022
->>>>>>> a26ec0b73793a4b119a1701f147135dc6190c40d:conferences/readme.md
+
 
 Sept. 28-Oct. 2, 2022 OSCLG Minneapolis, MN RO
 Organization for the Study of Communication Language and Gender
