@@ -1,17 +1,9 @@
 # Conferences in 2022
 
-<<<<<<< HEAD
-=======
-April 16-18, 2023 INFORMS Aurora, CO\ 
-Conference on Business Analytics and Operations Research\
-https://meetings.informs.org/wordpress/analytics2023/\
-Submission deadline TBD
+| Nr   | Date & Submission Deadline            | Conference Name & Location                                        | Link | 
+| ---- | :-------------------- | ------------------------------------------------------------ | ------------------- | 
+| 1    | Sept. 28-Oct. 2, 2022     Submission deadline Sept 28, Oct 2, 2022       | Organization for the Study of Communication Language and Gender | https://osclg.org/ |
 
->>>>>>> 049c67a (added break tag)
-Sep 23-25, 2022 OCMC Austin, TX ST
-Organizational Communication Mini Conference
-https://commstudies.utexas.edu/graduate/ocmc-2022
-Submission deadline July 1, 2022
 
 Sept. 28-Oct. 2, 2022 OSCLG Minneapolis, MN RO
 Organization for the Study of Communication Language and Gender
