@@ -3,9 +3,8 @@
 | No.  |  Date | Submission Deadline  | Conference Name & Location  | Link |
 |---|---|---|---|---|
 | 1   | Sept. 28-Oct. 2, 2022   | Submission closed  |Organization for the Study of Communication Language and Gender  | https://osclg.org/   |
-| 2   | Nov 8-22, 2022   |    | ACM Conference on Computer-Supported
-Cooperative Work and Social Computing  | http://cscw.acm.org/  |
-| 3  | Nov 17-20  |   | National Communication Association Convention  | http://www.natcom.org/convention/  |
+| 2   | Nov 8-22, 2022   | July 15, 2022   | ACM Conference on Computer-Supported Cooperative Work and Social Computing  | http://cscw.acm.org/  |
+| 3  | Nov 17-20  | Submission closed  | National Communication Association Convention  | http://www.natcom.org/convention/  |
 | 4  |   |   |   |   |
 | 5  |   |   |   |   |
 | 6  |   |   |   |   |
