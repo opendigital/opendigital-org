@@ -28,3 +28,5 @@ Date               | Presenter Name |       Topic        |
 29th August  2022  |   Manthan      |  Plan of Study 
 ---------------    | -------------  | 
 6th September 2022 |    Jia         |  Generalized Method of Moments ( GMM )
+---------------    |--------------  |    
+12 October 2022    |    Sameer      |  Presenting AOM Paper   
