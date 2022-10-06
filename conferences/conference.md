@@ -5,8 +5,8 @@
 | 1  | Sept. 28-Oct. 2, 2022   | Submission closed  |Organization for the Study of Communication Language and Gender  | https://osclg.org/   |
 | 2  | Nov 8-22, 2022   | Submission Closed   | ACM Conference on Computer-Supported Cooperative Work and Social Computing  | http://cscw.acm.org/  |
 | 3  | Nov 17-20  | Submission closed  | National Communication Association Convention  | http://www.natcom.org/convention/  |
-| 4  | March 29-April 2, 2023  | March 29-April 2, 2023  | Conference on Business Analytics and Operations Research  | https://www.csca-net.org/aws/CSCA/pt/sp/convention_overview  |
-| 5  | April 16-18, 2023 | April 16-18, 2023 | Central States Communication Association  | https://meetings.informs.org/wordpress/analytics2023/  |
+| 4  | March 29-April 2, 2023  | Oct. 7, 2022  | Conference on Business Analytics and Operations Research  | https://www.csca-net.org/aws/CSCA/pt/sp/convention_overview  |
+| 5  | April 16-18, 2023 | Not listed (aod 10/5/2022) | Central States Communication Association  | https://meetings.informs.org/wordpress/analytics2023/  |
 | 6  | May 17-20, 2023  | Dec. 1, 2022  | International Congress of Qualitative Inquiry, ICQI Illinois (UIUC) RO  | https://icqi.org/  |
 | 7  | May 25-29, 2023  | Nov. 1, 2022  | International Communication Association Conference, ICA Toronto, Canada ST  |  http://www.icahdq.org/# |
 | 8  | Oct. 13-18   | Jan. 15, 2023   | ACM Conference on Computer-Supported Cooperative Work and Social Computing  | http://cscw.acm.org/  |
