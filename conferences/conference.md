@@ -13,11 +13,11 @@
 | 9  | Jun. 22 to Jul. 2, 2023  | TBD (aod 10/5/2022)  | Sunbelt Portland, OR SE International Network for Social Network Analysis  | http://www.insna.org/ |
 | 10 | July 2023 (date TBD)  | TBD (aod 10/5/2022)  | IC2S2 Copenhagen, Denmark SA International Conference on Computational Social Science (IC2S2)  | https://nerds.itu.dk/2022/07/22/ic2s2-2023-in-copenhagen/ https://iscss.org/ic2s2/  |
 | 11 | July 2023 (date TBD)  | TBD (aod 10/5/2022)  |  INGroup Seattle, WA TO Interdisciplinary Network for Group Research  | http://www.ingroup.net/conference.html  |
-| 12 | August 4-8, 2023  | TBD (aod 10/5/2022)  | 2023 AOM Boston, MA SE; Annual Meeting of the Academy of Management (Communication, Digital Technology, and Organization Division – formally Organizational Communication & Information Systems Division)  | https://aom.org/events/annual-meeting/future-annual-meetings/2023-putting-the-worker-front-and-center http://ocis.aom.org/   |
+| 12 | August 4-8, 2023  | Jan. 10, 2023  | 2023 AOM Boston, MA SE; Annual Meeting of the Academy of Management (Communication, Digital Technology, and Organization Division – formally Organizational Communication & Information Systems Division)  | https://aom.org/events/annual-meeting/future-annual-meetings/2023-putting-the-worker-front-and-center http://ocis.aom.org/   |
 | 13 | April 16-18  | TBD (aod 10/5/2022)  | 2023 INFORMS Aurora, CO - Conference on Business Analytics and Operations Research  | https://meetings.informs.org/wordpress/analytics2023/  |
 | 14 | Oct 4-8, 2023   | June 15, 2023  |Organization for the Study of Communication Language and Gender  | https://osclg.org/   |
-| 15 |   |   |   |   |
-| 16 |   |   |   |   |
+| 15 | April 21-23, 2023  | Jan. 30, 2023  | Conference on Advances in Computer Technology, Information Science and Communications   | http://www.ctisc2023.net/  |
+| 16 | May 18-20, 2023  | Dec. 31 - 1st Analysis  | ANN-SONIC-NICO (Northwestern University) | Invite  |
 | 17 |   |   |   |   |
 | 18 |   |   |   |   |
 | 19 |   |   |   |   |
