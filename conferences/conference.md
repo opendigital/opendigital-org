@@ -8,7 +8,7 @@
 | 4  | March 29-April 2, 2023  | Submission Closed  | Conference on Business Analytics and Operations Research  | https://www.csca-net.org/aws/CSCA/pt/sp/convention_overview  |
 | 5  | April 16-18, 2023 | Dec. 15, 2022 | Central States Communication Association  | https://meetings.informs.org/wordpress/analytics2023/  |
 | 6  | May 17-20, 2023  | Dec. 1, 2022  | International Congress of Qualitative Inquiry, ICQI Illinois (UIUC) RO  | https://icqi.org/  |
-| 7  | May 25-29, 2023  | Nov. 1, 2022  | International Communication Association Conference, ICA Toronto, Canada ST  |  http://www.icahdq.org/# |
+| 7  | May 25-29, 2023  | Submission closed  | International Communication Association Conference, ICA Toronto, Canada ST  |  http://www.icahdq.org/# |
 | 8  | Oct. 13-18   | Jan. 15, 2023   | ACM Conference on Computer-Supported Cooperative Work and Social Computing  | http://cscw.acm.org/  |
 | 9  | Jun. 22 to Jul. 2, 2023  | Dec. 9, 2022  | Sunbelt Portland, OR SE International Network for Social Network Analysis  | http://www.insna.org/; https://www.insna.org/sunbelt-2023-call-for-workshops|
 | 10 | July 2023 (date TBD)  | TBD (aod 11/16/2022)  | IC2S2 Copenhagen, Denmark SA International Conference on Computational Social Science (IC2S2)  | https://nerds.itu.dk/2022/07/22/ic2s2-2023-in-copenhagen/ https://iscss.org/ic2s2/  |
