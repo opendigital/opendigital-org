@@ -20,7 +20,7 @@
 | 16 | May 18-20, 2023  | Dec. 31 - 1st Analysis  | ANN-SONIC-NICO (Northwestern University) | Invite  |
 | 17 |  October 31, 2023 | October 31, 2023  | Analytical Creativity (Jia) **Journal Submission** |  https://pubsonline-informs-org.ezproxy.lib.purdue.edu/page/isre/calls-for-papers |
 | 18 | May 15-16, 2023  | Jan. 16, 2023  | Mining Software Repositories 2023 (Sahithi)  | https://conf.researchr.org/home/msr-2023  |
-| 19 |   |   |   |   |
+| 19 | 22 - 27 October, 2023  | March 21, 2023  | IEEE Visual Analytics  | https://ieeevis.org/year/2023/welcome  |
 | 20 |   |   |   |   |
 | 21 |   |   |   |   |
 
