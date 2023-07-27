@@ -2,7 +2,7 @@
 
 | No.  |  Date | Submission Deadline  | Conference Name & Location  | Link |
 |---|---|---|---|---|
-| 1  |    |   |  |    |
+| 1  | 11/9/2024 to 11/13/2024 | 1/16/2024 | ACM Conference on Computer-Supported Cooperative Work and Social Computing | https://cscw.acm.org/2024/ |
 | 2  |    |   |  |    |
 | 3  |    |   |  |    |
 | 4  |    |   |  |    |
