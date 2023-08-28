@@ -15,17 +15,17 @@ Date               | Presenter Name |       Topic        |
 -----------------  | -------------- |  
 2 October 2023     | -              |
 ----------------   | -------------  |
-9 October 2023     | -              |
+9 October 2023     | Christopher Rashidian | Use of Color Psychology in Technology
 ----------------   | -------------  |
 16 October 2023    | -              |
 ----------------   | -------------  |
-23 October 2023    | -              |                          
+23 October 2023    | -              |
 ----------------   | -------------  |
 30 October 2023    | -              |
 ----------------   | -------------  |
 6 Novemebr 2023    | -              |
 ----------------   | -------------  | 
-13 November 2023   | -              |
+13 November 2023   | Christopher Rashidian | Large Language Models
 ---------------    | -------------  | 
 20 November 2023   | -              |
 ---------------    |--------------  |    
