@@ -1,5 +1,5 @@
 Presentations folder
-* Put a table for all the presentations for the next six weeks here.
+* Presentation schedule through December 11, 2023.
 
 Date               | Presenter Name |       Topic        | 
 -----------------  | -------------- |  ----------------
