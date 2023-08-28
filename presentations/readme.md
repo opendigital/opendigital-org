@@ -1,36 +1,32 @@
 Presentations folder
 * Put a table for all the presentations for the next six weeks here.
 
-Date               | Presenter Name |       Topic        |      Comments      | 
+Date               | Presenter Name |       Topic        | 
 -----------------  | -------------- |  ----------------
-August 28, 2023    | Mantham        | Master Thesis Proposal |
+13th June 2022     | Vineet         | 
 -----------------  | -------------- |  
-September 4, 2023  | Cancelled?     | 
+20th June 2022     | ???            | 
 -----------------  | -------------- |  
-September 11, 2023 |                | 
+27th June 2022     | C. Rashidian   | 
 -----------------  | -------------- |  
-September 18, 2023 |                | 
+4th July  2022     | N/A            | 
 -----------------  | -------------- |  
-September 25, 2023 |                | 
+11th July  2022    | B.H. Jacobs    | 
 -----------------  | -------------- |  
-October 2, 2023    |                | 
------------------  | -------------- |  
-October 9, 2023    |                |
+18th July 2022     | cancelled      |
 ----------------   | -------------  |
-October 16, 2023   |                |
+25th July 2022     | -              |
 ----------------   | -------------  |
-October 23, 2023   |                |
+1st August 2022    | Manthan        |  Experimental Setup for Fall Hack, Ironhacks
 ----------------   | -------------  |
-October 30, 2023   |                |                          
+8th August 2022    | Jia            |  Simon, H. A., & Newell, A. (1976). Human Problem Solving: The State of the Theory in 1970.  1. In Structural Learning (Volume II). Routledge.                           
 ----------------   | -------------  |
-November 6, 2023   |                |          
+15th August 2022   | vineet & shatayu |          
 ----------------   | -------------  |
-November 13, 2023  |                |
+22nd August  2022  |                |
 ----------------   | -------------  | 
-November 20, 2023  |                | 
+29th August  2022  |   Manthan      |  Plan of Study 
 ---------------    | -------------  | 
-November 27, 2023  |                |
+6th September 2022 |    Jia         |  Generalized Method of Moments ( GMM )
 ---------------    |--------------  |    
-December 4, 2023   |                |
----------------    |--------------  |    
-December 11, 2023  |                |   
+12 October 2022    |    Sameer      |  Presenting AOM Paper   
