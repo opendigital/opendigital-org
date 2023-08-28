@@ -23,7 +23,7 @@ Date               | Presenter Name |       Topic        |
 ----------------   | -------------  |
 30 October 2023    | -              |
 ----------------   | -------------  |
-6 Novemebr 2023    | -              |
+6 November 2023    | -              |
 ----------------   | -------------  | 
 13 November 2023   | Christopher Rashidian | Large Language Models
 ---------------    | -------------  | 
