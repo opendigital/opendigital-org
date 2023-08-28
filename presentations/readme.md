@@ -5,9 +5,9 @@ Date               | Presenter Name |       Topic        |
 -----------------  | -------------- |  ----------------
 28 August 2023     | Mantham        | Master Thesis Topic
 -----------------  | -------------- |  
-4 Sept 2023        | ??             |
+4 Sept 2023        | Nevena/Professor; Sahithi | Explorative Research Questions on Cognitive Models; Thesis Question
 -----------------  | -------------- |  
-11 September 2023  | -              |
+11 September 2023  | Professor/Christopher/Yifan | Conversational AI and Empathy
 -----------------  | -------------- |  
 18 September 2023  | -              |
 -----------------  | -------------- |  
@@ -15,7 +15,7 @@ Date               | Presenter Name |       Topic        |
 -----------------  | -------------- |  
 2 October 2023     | -              |
 ----------------   | -------------  |
-9 October 2023     | Christopher Rashidian | Use of Color Psychology in Technology
+9 October 2023     | Christopher Rashidian | TBD: Use of Color Psychology in Technology
 ----------------   | -------------  |
 16 October 2023    | -              |
 ----------------   | -------------  |
