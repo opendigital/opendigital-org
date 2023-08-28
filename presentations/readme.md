@@ -3,30 +3,35 @@ Presentations folder
 
 Date               | Presenter Name |       Topic        | 
 -----------------  | -------------- |  ----------------
-13th June 2022     | Vineet         | 
+28 August 2023     | Mantham        | Master Thesis Topic
 -----------------  | -------------- |  
-20th June 2022     | ???            | 
+4 Sept 2023        | ??             |
 -----------------  | -------------- |  
-27th June 2022     | C. Rashidian   | 
+11 September 2023  | -              |
 -----------------  | -------------- |  
-4th July  2022     | N/A            | 
+18 September 2023  | -              |
 -----------------  | -------------- |  
-11th July  2022    | B.H. Jacobs    | 
+25 September 2023  | -              |
 -----------------  | -------------- |  
-18th July 2022     | cancelled      |
+2 October 2023     | -              |
 ----------------   | -------------  |
-25th July 2022     | -              |
+9 October 2023     | -              |
 ----------------   | -------------  |
-1st August 2022    | Manthan        |  Experimental Setup for Fall Hack, Ironhacks
+16 October 2023    | -              |
 ----------------   | -------------  |
-8th August 2022    | Jia            |  Simon, H. A., & Newell, A. (1976). Human Problem Solving: The State of the Theory in 1970.  1. In Structural Learning (Volume II). Routledge.                           
+23 October 2023    | -              |                          
 ----------------   | -------------  |
-15th August 2022   | vineet & shatayu |          
+30 October 2023    | -              |
 ----------------   | -------------  |
-22nd August  2022  |                |
+6 Novemebr 2023    | -              |
 ----------------   | -------------  | 
-29th August  2022  |   Manthan      |  Plan of Study 
+13 November 2023   | -              |
 ---------------    | -------------  | 
-6th September 2022 |    Jia         |  Generalized Method of Moments ( GMM )
+20 November 2023   | -              |
 ---------------    |--------------  |    
-12 October 2022    |    Sameer      |  Presenting AOM Paper   
+27 November 2023   | -              |
+---------------    |--------------  |    
+4 December 2023    | -              |
+---------------    |--------------  |    
+11 December 2023   | -              |
+---------------    |--------------  |
