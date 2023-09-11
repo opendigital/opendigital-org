@@ -2,7 +2,7 @@
 
 | No.  |  Submission Deadline | Date  | Conference Name & Location  | Link |
 |---|---|---|---|---|
-| 1  | 9/7/2023 | 5/11/2024 to 5/16/2024 | CHI 2024 | https://chi2024.acm.org/ |
+| 1  | 9/7/2023 | 5/11/2024 to 5/16/2024 | CHI 2024 | https://chi2024.acm.org/ (EXPIRED) |
 | 2  | 9/30/2023 | 2/6/2024 to 2/8/2024 | International Conference on Intelligent Systems and Pattern Recognition | https://ispr2024.sciencesconf.org/ |
 | 3  | 10/7/2023 | 4/2/2024 to 4/7/2024 | Central States Communication Association 2024 Annual Conference | https://www.csca-net.org/aws/CSCA/pt/sp/convention_overview |
 | 4  | 10/9/2023  | 2/24/2024 to 2/26/2024 | International Conference on Agents and Artificial Intelligence | https://icaart.scitevents.org/ |
@@ -16,7 +16,7 @@
 | 12 | 1/5/2024 | 5/11/2024 to 5/16/2024 | International Conference on Machine Learning Technologies | http://www.icmlt.org/ |
 | 13 | 1/16/2024 | 11/9/2024 to 11/13/2024 |  ACM Conference on Computer-Supported Cooperative Work and Social Computing | https://cscw.acm.org/2024/ |
 | 14 | TBD | TBD | International Conference on Computational Social Science (IC2S2) | https://iscss.org/
-| 15  |    |   |  |    |
+| 15  | 6/14/2024 | 1/4/2025 to 1/7/2025   | Hawaii International Conference on Systems Sciences  | https://hicss.hawaii.edu/   |
 | 16  |    |   |  |    |
 | 17  |    |   |  |    |
 | 18  |    |   |  |    |
